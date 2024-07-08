@@ -1,2 +1,8 @@
 git learning center
 - reune aprendizado geral em todas as areas
+
+github repositorio: code-center
+
+git config --global user.name srsa7077
+git config --global user.email "srsa7077@gmail.com"
+
